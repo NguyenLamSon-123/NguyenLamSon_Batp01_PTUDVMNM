@@ -7,7 +7,7 @@
 # <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e84361f-37fa-4ddd-b134-1a5a246ce52f" />
 ## Cập nhật file nginx.conf
 ## nano ./nginx/nginx.conf
-# <img width="450" height="341" alt="image" src="https://github.com/user-attachments/assets/3300412f-6a56-480f-9760-878a57ea7ea3" />
+# <img width="498" height="447" alt="image" src="https://github.com/user-attachments/assets/7e8f6587-b86b-4327-8721-585dcf834882" />
 # 3. Tạo lại file cấu hình
 ## nano docker-compose.yml
 # <img width="478" height="499" alt="image" src="https://github.com/user-attachments/assets/d393117c-64bc-4112-899a-03f6ba3fecab" />
