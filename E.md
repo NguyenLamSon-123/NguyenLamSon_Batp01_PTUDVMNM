@@ -17,3 +17,5 @@ cấu hình:
 ## <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b20e879-acf9-4310-aa2b-5e9aa228fc4e" />
 ## <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d18939b5-cdd3-43dc-8545-eb583dfedd46" />
 ## <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5fd3f432-3dee-4071-875e-40ec5d2fe492" />
+# Trang web chạy thử nghiệm: https://gochoctap.nlamson1301.id.vn/
+## <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8beecb61-fdb3-444b-8402-ed500aa3487f" />
