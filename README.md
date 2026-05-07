@@ -3,4 +3,9 @@
 # K225480106076
 # BÀI TẬP 01
 ## LINK CÁC PHẦN THỰC HIỆN
-
+# A. https://github.com/NguyenLamSon-123/NguyenLamSon_Batp01_PTUDVMNM/blob/main/A.md
+# B.
+# C.
+# D.
+# E.
+# G.
